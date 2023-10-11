@@ -1,0 +1,1 @@
+mongodb+srv://bekisz43:1234@policja.oozsbpb.mongodb.net/?retryWrites=true&w=majority
